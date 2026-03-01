@@ -11,8 +11,7 @@
       "mcp__sequential-thinking",
       "mcp__shadcn__search_items_in_registries",
       "mcp__context7__resolve-library-id",
-      "mcp__context7__get-library-docs",
-      "Skill(git:commit)"
+      "mcp__context7__get-library-docs"
     ],
     "deny": [],
     "ask": []
